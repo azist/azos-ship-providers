@@ -1,4 +1,4 @@
-echo +++++ [Azos.Amazon.S3] Pre Build
+echo +++++ [Azos.Web.Shipping] Pre Build
 
 set SOLUTION_DIR=%1
 set PROJECT_DIR=%2
@@ -15,4 +15,4 @@ rem ---------------------------------------------
 dotnet "%TOOL_DIR%buildinfo.dll" > "%PROJECT_DIR%BUILD_INFO.txt"
 
 rem ---------------------------------------------
-echo +++++ [Azos.Amazon.S3] Pre Build
+echo +++++ [Azos.Web.Shipping] Pre Build

@@ -1,4 +1,4 @@
-echo +++++ [Azos.Amazon.S3] Post Build
+echo +++++ [Azos.Web.Shipping] Post Build
 
 set SOLUTION_DIR=%1
 set PROJECT_DIR=%2
@@ -15,4 +15,4 @@ rem ---------------------------------------------
 echo Nothing To Do
 
 rem ---------------------------------------------
-echo +++++ [Azos.Amazon.S3] Post Build
+echo +++++ [Azos.Web.Shipping] Post Build
